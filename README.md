@@ -1,5 +1,5 @@
 # Kubernetes Interview Challenge
-1. Start from a single file Python mini HTTP server.<br>The source code is located here: https://gist.github.com/eredo/1547873c189ed5ced7353d6217cfeb42
+1. Start from a single file Python mini HTTP server.<br>The source code is located here: https://raw.githubusercontent.com/vladimirmukhin/kubernetes-interview-challenge/main/main.py
 2. Run it locally.
 3. Dockerize it.
 4. Run it locally through Docker.
