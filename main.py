@@ -5,7 +5,7 @@ class SimpleServer(BaseHTTPRequestHandler):
         self.send_response(200)
         self.send_header('Content-Type', 'text/plain')
         self.end_headers()
-        self.wfile.write(bytes('Kubernetes Interview Challange', 'utf-8'))
+        self.wfile.write(bytes('Kubernetes Interview Challenge', 'utf-8'))
 
 hostname = "0.0.0.0"
 port = 8080
